@@ -1,15 +1,13 @@
 ---
-title: "Frank Hermosillo"
-image: "frank.jpg"
+title: "Bernardo Chombo-Álvarez"
+image: "BCA.jpg"
 links:
-  - label: LinkedIn
-    url: "https://linkedin.com/"
   - label: Twitter
-    url: "https://twitter.com/"
+    url: "https://twitter.com/ChombOmics"
   - label: GitHub
-    url: "https://github.com/"
+    url: "https://BernardoChomboAlvarez.github.com/"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "mailto:bchombo@lcg.unam.mx"
 output:
   postcards::trestles
 ---
